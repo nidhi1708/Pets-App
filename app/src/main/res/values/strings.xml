@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Pets</string>
+    <!-- Label for overflow menu option that inserts fake pet data into the app [CHAR LIMIT=20] -->
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+
+    <!-- Label for overflow menu option that deletes all pet data in the app [CHAR LIMIT=20] -->
+    <string name="action_delete_all_entries">Delete All Pets</string>
+
+    <!-- Title for the activity to add a new pet [CHAR LIMIT=20] -->
+    <string name="editor_activity_title_new_pet">Add a Pet</string>
+
+    <!-- Title for the activity to edit the current pet [CHAR LIMIT=20] -->
+    <string name="editor_activity_title_edit_pet">Edit Pet</string>
+
+    <!-- Label for editor menu option to save pet and leave editor [CHAR LIMIT=20] -->
+    <string name="action_save">Save</string>
+
+    <!-- Label for editor overflow menu option that deletes the current pet [CHAR LIMIT=20] -->
+    <string name="action_delete">Delete</string>
+
+    <!-- Label for overview category of attributes in the editor [CHAR LIMIT=30] -->
+    <string name="category_overview">Overview</string>
+
+    <!-- Label for gender information in the editor [CHAR LIMIT=30] -->
+    <string name="category_gender">Gender</string>
+
+    <!-- Label for measurement information in the editor [CHAR LIMIT=30] -->
+    <string name="category_measurement">Measurement</string>
+
+    <!-- Text hint for name field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_pet_name">Name</string>
+
+    <!-- Text hint for breed field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_pet_breed">Breed</string>
+
+    <!-- Text hint for name field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_pet_weight">Weight</string>
+
+    <!-- Units for weight of the pet (kilograms) [CHAR LIMIT=5] -->
+    <string name="unit_pet_weight">kg</string>
+
+    <!-- Label for dropdown menu option if the pet's gender is unknown [CHAR LIMIT=20] -->
+    <string name="gender_unknown">Unknown</string>
+
+    <!-- Label for dropdown menu option if the pet is male [CHAR LIMIT=20] -->
+    <string name="gender_male">Male</string>
+
+    <!-- Label for dropdown menu option if the pet is female [CHAR LIMIT=20] -->
+    <string name="gender_female">Female</string>
+    <string name="editor_insertion_failed">Insertion failed</string>
+
+    <string name="editor_insertion_successfull">Insertion successfull</string>
+    <string name="impotant">\"INTEGER PRIMARY KEY AUTOINCREAMENT, \"</string>
+
+    <string name="editor_updation_successfull">Successfully Updated</string>
+    <string name="editor_updatio_failed">Updation Failed</string>
+
+    <!-- Empty View text display when there is no pet -->
+    <string name="empty_view_title_text">It\'s a bit lonely here</string>
+    <string name="empty_view_subtitle_text">Get starting by adding a pet</string>
+
+    <string name="unchanged_changed_dialog">Discard Changes or Keep Editing</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+
+    <string name="editor_delete_pet_dialog">Are you sure you want to delete the pet?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="editor_deletion_failed">Deletion failed</string>
+    <string name="editor_deletion_successfull">Deletion successfull</string>
+    <string name="main_delete_all_pets">Are you sure you want to delete all Pets?</string>
+
+    <string name="unknown_breed">Unknown Breed</string>
+</resources>

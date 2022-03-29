@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/25579/Downloads/Pets2/app/src/main/res/layout/activity_editor.xml" value="0.30256410256410254" />
+        <entry key="..\:/Users/25579/Downloads/Pets2/app/src/main/res/layout/activity_main.xml" value="0.6666666666666666" />
+        <entry key="..\:/Users/25579/Downloads/Pets2/app/src/main/res/layout/list_item.xml" value="0.2824074074074074" />
+        <entry key="..\:/Users/25579/Downloads/Pets2/app/src/main/res/menu/menu_catalog.xml" value="0.2824074074074074" />
+        <entry key="..\:/Users/25579/Downloads/Pets2/app/src/main/res/menu/menu_editor.xml" value="0.2824074074074074" />
+        <entry key="..\:/Users/25579/Downloads/Pets2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.31846153846153846" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
